@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boga28
 - 👀 I’m interested in coding Android Native Apps.
-- 🌱 I’m currently learning Java, JS, Android Studio
+- 🌱 I’m currently learning Java, JS, Android Studio, Embeded Software (C)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramazan2534k@gmail.com
 
